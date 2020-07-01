@@ -1,5 +1,5 @@
 想看具体的数据，请[点我](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend_detail.md)
-| 公司   | 岗位 | 题目                     | 出现次数 |
+| 公司   | 岗位 | 题目                     | 考察次数 |
 |------|----|------------------------|----|
 | 字节跳动 | 后端 | 25\. K 个一组翻转链表         | 4  |
 | 字节跳动 | 后端 | 121\.买卖股票              | 4  |
