@@ -1,4 +1,4 @@
-想看具体的数据，请[点我](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client_detail.md)
+[查看精确到部门的数据](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client_detail.md)
 | 公司   | 岗位  | 题目                            | 考察次数 |
 |------|-----|-------------------------------|----|
 | 字节跳动 | 客户端 | 206\. 反转链表                    | 4  |
