@@ -1,3 +1,4 @@
+想看具体的数据，请[点我](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm_detail.md)
 | 公司   | 岗位 | 题目                 | 重复个数 |
 |------|----|--------------------|------|
 | 字节跳动 | 算法 | 160\. 相交链表         | 1    |
