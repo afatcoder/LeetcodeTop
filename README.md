@@ -10,6 +10,7 @@
 
 统计题目实属不易,各位看官给个:star:支持一下呀~！
 
+:warning:若转载本文章，需注明本仓库地址哦:warning:
 ## 字节跳动（6.29更新）
 
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
