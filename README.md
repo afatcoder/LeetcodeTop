@@ -8,6 +8,7 @@
 感觉还不错的话，那就来分享一下你考到的题目吧。祝大家都能拿到满意的offer:muscle::muscle:
 
 :warning:若转载本文章，需注明本仓库地址哦:warning:
+## 阿里巴巴（即将更新）
 ## 字节跳动（7.4更新）
 
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
@@ -15,3 +16,5 @@
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
+  
+## 快手（占坑）
