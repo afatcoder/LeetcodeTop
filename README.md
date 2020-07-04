@@ -5,7 +5,7 @@
 祝大家都能拿到满意的offer:muscle::muscle:
 
 :warning:若转载本文章，需注明本仓库地址哦:warning:
-## 字节跳动（6.29更新）
+## 字节跳动（7.4更新）
 
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)

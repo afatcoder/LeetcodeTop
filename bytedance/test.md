@@ -1,4 +1,7 @@
-[查看精确到部门的数据](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test_detail.md)
+对于数据较多的岗位，只提供考察频度大于1次的题目，基本上够用了。
+
+如果想准备的更加充分，需要了解更多的题目或各部门考察的题目，请移至codetop小程序中查询。如果这些数据确实对你有帮助，那就分享一下你考到的题目吧。
+![CodeTop](https://github.com/afatcoder/LeetcodeTop/blob/master/img/codetop.jpg)
 | 公司   | 岗位 | 题目                            | 重复个数 |
 |------|----|-------------------------------|------|
 | 字节跳动 | 测试 | 179\. 最大数                     | 2    |
