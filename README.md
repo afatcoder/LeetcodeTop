@@ -3,7 +3,7 @@
 
 对于数据较多的岗位，只提供考察频度**大于1次**的数据，基本上也够用了。如果想准备地更充分，需要了解更多的题目或各部门偏爱考察的题目，请移至**CodeTop**微信小程序中查询。
 
-![微信小程序：CodeTop]((https://github.com/afatcoder/LeetcodeTop/blob/master/img/logo.jpg))
+![微信小程序：CodeTop](https://github.com/afatcoder/LeetcodeTop/blob/master/img/logo.jpg)
 
 感觉还不错的话，那就来分享一下你考到的题目吧。祝大家都能拿到满意的offer:muscle::muscle:
 
