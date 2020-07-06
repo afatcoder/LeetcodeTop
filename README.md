@@ -15,7 +15,7 @@
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/algorithm.md)
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/frontend.md)
-- [数据相关岗位](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/frontend.md)
+- [数据相关岗位](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/data.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/test.md)
 ## 字节跳动（更新至牛客7.6日的面经）
 
