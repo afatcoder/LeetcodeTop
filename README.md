@@ -1,11 +1,13 @@
 # LeetcodeTop
 本仓库用于汇总互联网公司技术岗考察leetcode题目的热度:fire:，帮助同学们更加有针对性地准备面试。
 
-对于一些数据条数较多的岗位，可能会只提供考察频度大于1次的数据，基本上也够用了。如果想更充分准备面试，想了解部门偏爱考察的题目或时间排序查看面试题，请移至**codetop**微信小程序中查询。
+对于一些数据条数较多的岗位，可能会只提供考察频度大于1次的数据，基本上也够用了。
+
+如果想更充分准备面试，想了解部门偏爱考察的题目或时间排序查看面试题，请移至**codetop**微信小程序中查询。
 
 ![微信小程序：CodeTop](https://note.youdao.com/yws/public/resource/a9216f577fb9d322425561dfea9188bc/xmlnote/04CF90C97EE8448CA24A68F195D53218/10762)
 
-感觉还不错的话，那就来分享一下你考到的题目吧。祝大家都能拿到满意的offer:muscle::muscle:
+:heartbeat:期待大家来codetop分享考到的题目，祝大家都能拿到满意的offer:muscle::muscle:
 
 :information_source:数据来源：牛客网笔经面经
 
