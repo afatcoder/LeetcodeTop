@@ -5,15 +5,16 @@
 
 对于一些数据条数较多的岗位，可能会只提供考察频度大于1次的数据，基本上也够用了。
 
-如果想更充分准备面试，想了解部门偏爱考察的题目或时间排序查看面试题，请移至**codetop**微信小程序中查询。
+如果想更充分准备面试，了解部门偏爱考察的题目或时间排序查看面试题，请移至公众号中的CodeTop小程序查询。
 
-![微信小程序：CodeTop](https://note.youdao.com/yws/public/resource/a9216f577fb9d322425561dfea9188bc/xmlnote/04CF90C97EE8448CA24A68F195D53218/10762)
+![微信公众号：力扣君](img/leetcodetop.png)
 
-:heartbeat:期待大家来codetop分享考到的题目，祝大家都能拿到满意的offer:muscle::muscle:
+:heartbeat:期待大家来codetop分享考到的题目，祝大家都能拿到满意的offer
 
 :information_source:数据来源：牛客网笔经面经
 
-:warning:若转载本文章，需注明本仓库地址哦:warning:
+:warning:若转载本文章，需注明本仓库地址哦
+
 ## 阿里巴巴
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/algorithm.md)
