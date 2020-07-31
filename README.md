@@ -7,7 +7,7 @@
 
 如果想更充分准备面试，了解部门偏爱考察的题目或时间排序查看面试题，请移至公众号中的CodeTop小程序查询。
 
-![微信公众号：力扣君](img/leetcodetop.png)
+![微信公众号：力扣君](https://note.youdao.com/yws/public/resource/a9216f577fb9d322425561dfea9188bc/xmlnote/E030D723180440EAA22542B348C919C2/10773)
 
 :heartbeat:期待大家来codetop分享考到的题目，祝大家都能拿到满意的offer
 
