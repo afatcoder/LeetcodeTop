@@ -37,6 +37,7 @@
 ## 快手（更新至牛客7.24日的面经）
 
   [更新快手7.25~8.12的原始数据，近期将统计频数](https://github.com/afatcoder/LeetcodeTop/issues/9)
+  
   [快手7.25~8.12汇总后的数据](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/latest.md)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/algorithm.md)
