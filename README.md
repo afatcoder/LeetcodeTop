@@ -13,7 +13,7 @@
 
 :warning:若转载本文章，需注明本仓库地址哦
 
-![微信公众号：力扣君](https://note.youdao.com/yws/public/resource/a9216f577fb9d322425561dfea9188bc/xmlnote/E030D723180440EAA22542B348C919C2/10773)
+![微信公众号：力扣君](https://upload.cc/i1/2020/08/25/OpZnQm.png)
 
 ## 百度(更新至牛客8.7日的面经)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/baidu/backend.md)
