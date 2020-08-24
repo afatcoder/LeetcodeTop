@@ -34,11 +34,7 @@
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/test.md)
 - [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/data.md)
-## 快手（更新至牛客7.24日的面经）
-
-  （08.13）[更新快手7.25~8.12的原始数据，近期将统计频数](https://github.com/afatcoder/LeetcodeTop/issues/9)
-  
-  （08.14）[快手7.25~8.12汇总后的数据](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/latest.md)
+## 快手（更新至牛客8.12日的面经）
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/algorithm.md)
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/client.md)
