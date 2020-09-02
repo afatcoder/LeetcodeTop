@@ -14,7 +14,14 @@
 :warning:若转载本文章，需注明本仓库地址哦
 
 ![微信公众号：力扣君](https://upload.cc/i1/2020/08/25/OpZnQm.png)
-
+## 猿辅导（更新至牛客8.31日的面经）
+[8.1~8.31面试考察的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/new.md)
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/test.md)
+- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/data.md)
 ## 百度(更新至牛客8.7日的面经)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/baidu/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/baidu/algorithm.md)
@@ -27,13 +34,6 @@
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
-## 猿辅导（更新至牛客7.10日的面经）
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/test.md)
-- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/data.md)
 ## 快手（更新至牛客8.12日的面经）
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/algorithm.md)
