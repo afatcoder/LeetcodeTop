@@ -5,9 +5,9 @@
 
 如果想了解**部门**偏爱考察的题目或按时间排序查看面试题，请移至公众号中的CodeTop小程序查询。
 
-:loudspeaker:新增[issues](https://github.com/afatcoder/LeetcodeTop/issues)，以后的issue会存放题目的来源和没有在leetcode上查到的“不明题目”。
+:loudspeaker:公告：**2020.9.8** 现征集[你最感兴趣的公司](https://github.com/afatcoder/LeetcodeTop/issues/13)，欢迎前来投票
 
-:heartbeat:期待大家来在codetop中分享考到的题目，祝大家都能拿到满意的offer
+:heartbeat:[issues](https://github.com/afatcoder/LeetcodeTop/issues)中存放题目的来源
 
 :information_source:数据来源：牛客网笔经面经
 
