@@ -3,9 +3,9 @@
 
 如果想了解**部门**偏爱考察的题目或按时间排序查看面试题，请移至公众号中的CodeTop小程序查询。
 
-:loudspeaker:公告：**2020.9.8** 现征集[你最感兴趣的公司](https://github.com/afatcoder/LeetcodeTop/issues/13)，欢迎前来投票
+:loudspeaker: **[2020.9.8]** issue中在征集大家最感兴趣的公司，欢迎前来[投票](https://github.com/afatcoder/LeetcodeTop/issues/13)
 
-:information_source:数据来源：牛客网笔经面经。题目的原始文章链接已放在[issues](https://github.com/afatcoder/LeetcodeTop/issues)中
+:information_source:数据来源：牛客网笔经面经，题目的原始文章链接已放在[issues](https://github.com/afatcoder/LeetcodeTop/issues)中
 
 :warning:若转载本文章，需注明本仓库地址哦
 
