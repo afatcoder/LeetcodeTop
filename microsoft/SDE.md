@@ -55,7 +55,7 @@
 | 3. 无重复字符的最长子串                | 1    | https://leetcode-cn.com/problems/longest-substring-without-repeating-characters                    |
 | 72. 编辑距离                     | 1    | https://leetcode-cn.com/problems/edit-distance                                                     |
 | 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 | 1    | https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof |
-| 426. 将二叉搜索树转化为排序的双向链表        | 1    | https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list           |
+| 剑指 Offer 36. 二叉搜索树与双向链表        | 1    | https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof           |
 | 887. 鸡蛋掉落                    | 1    | https://leetcode-cn.com/problems/super-egg-drop                                                    |
 | 剑指 Offer 26. 树的子结构           | 1    | https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof                                            |
 | 328. 奇偶链表                    | 1    | https://leetcode-cn.com/problems/odd-even-linked-list                                              |
