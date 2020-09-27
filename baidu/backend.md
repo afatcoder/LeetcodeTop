@@ -6,11 +6,11 @@
 | 百度 | 后端 | 94. 二叉树的中序遍历                 | https://leetcode-cn.com/problems/binary-tree-inorder-traversal/                                     | 3  |
 | 百度 | 后端 | 199. 二叉树的右视图                 | https://leetcode-cn.com/problems/binary-tree-right-side-view/                                       | 3  |
 | 百度 | 后端 | 4. 寻找两个正序数组的中位数              | https://leetcode-cn.com/problems/median-of-two-sorted-arrays/                                       | 3  |
+| 百度 | 后端 | 146. LRU缓存机制                 | https://leetcode-cn.com/problems/lru-cache/                                                         | 3  |
 | 百度 | 后端 | 142. 环形链表 II                 | https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/                                     | 3  |
 | 百度 | 后端 | 268. 缺失数字                    | https://leetcode-cn.com/problems/missing-number/                                                    | 2  |
 | 百度 | 后端 | 160. 相交链表                    | https://leetcode-cn.com/problems/intersection-of-two-linked-lists/                                  | 2  |
 | 百度 | 后端 | 62. 不同路径                     | https://leetcode-cn.com/problems/unique-paths/                                                      | 2  |
-| 百度 | 后端 | 146. LRU缓存机制                 | https://leetcode-cn.com/problems/lru-cache/                                                         | 2  |
 | 百度 | 后端 | 349. 两个数组的交集                 | https://leetcode-cn.com/problems/intersection-of-two-arrays/                                        | 2  |
 | 百度 | 后端 | 19. 删除链表的倒数第N个节点             | https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/                                  | 2  |
 | 百度 | 后端 | 面试题 01.06. 字符串压缩             | https://leetcode-cn.com/problems/compress-string-lcci/                                              | 2  |
