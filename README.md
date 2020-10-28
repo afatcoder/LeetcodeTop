@@ -13,6 +13,18 @@
 
 :warning:若转载本文章，需注明本仓库地址哦
 
+## 字节跳动（更新至牛客9.1日的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+ [7.28~9.1面试考察的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
+</details>
+
 ## 微软（更新至牛客8.7日的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
 
@@ -38,17 +50,6 @@
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/baidu/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/baidu/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/baidu/test.md)
-</details>
-
-## 字节跳动（更新至牛客7.18日的面经）
-<details>
-<summary>按岗位分类</summary>
-  
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
 </details>
 
 ## 快手（更新至牛客8.12日的面经）
