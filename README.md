@@ -17,11 +17,11 @@
 ## 微软（更新至牛客11.23日的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
 
-## 字节跳动（更新至牛客9.1日的面经）
+## 字节跳动（更新至牛客10.23日的面经）
 <details>
 <summary>按岗位分类</summary>
   
- [7.28~9.1面试考察的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
+ [7.28~10.23涉及的207道题](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
