@@ -2,17 +2,13 @@
 本仓库用于汇总互联网公司技术岗考察leetcode题目的热度:fire:，帮助同学们更加有针对性地准备面试。
 
 :loudspeaker: [2020.10.22] **为方便大家高效检索题目，推出LeetcodeTop网站，当前支持公司+部门+岗位自由组合查询，欢迎前来使用**[https://leetcode-cn.top/](https://leetcode-cn.top/)
-<details>
-<summary>点我预览web端页面</summary>
-  
-  ![leetcodetop网站](https://upload.cc/i1/2020/10/22/kSJL26.png)
-  </details>
-
 
 :information_source:数据来源：牛客网笔经面经，题目的原始文章链接已放在[issues](https://github.com/afatcoder/LeetcodeTop/issues)中
 
 :warning:若转载本文章，需注明本仓库地址哦
 
+
+![微信公众号：力扣君](https://upload.cc/i1/2020/08/25/OpZnQm.png)
 
 ## 微软（更新至牛客11.23日的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
@@ -77,4 +73,3 @@
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/test.md)
 </details>
 
-![微信公众号：力扣君](https://upload.cc/i1/2020/08/25/OpZnQm.png)
