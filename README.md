@@ -8,7 +8,7 @@
 :warning:若转载本文章，需注明本仓库地址哦
 
 
-![微信公众号：力扣君](https://upload.cc/i1/2020/08/25/OpZnQm.png)
+![微信公众号：一个搬砖的胖子](https://ibb.co/1QGvkJ0)
 
 ## 微软（更新至牛客11.23日的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
