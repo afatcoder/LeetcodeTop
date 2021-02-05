@@ -11,20 +11,20 @@
 
 :warning:若转载本文章，需注明本仓库地址哦
 
-## 微软（更新至牛客11.23日的面经）
-- [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
-
-## 字节跳动（更新至牛客10.23日的面经）
+## 字节跳动（更新至牛客2.4日的面经）
 <details>
 <summary>按岗位分类</summary>
   
- [7.28~10.23涉及的207道题](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
+ [1.1~2.4涉及的90道题](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
 </details>
+
+## 微软（更新至牛客11.23日的面经）
+- [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
 
 ## 猿辅导（更新至牛客8.31日的面经）
 <details>
