@@ -1,7 +1,9 @@
 # LeetcodeTop
 本仓库用于汇总互联网公司技术岗考察leetcode题目的热度:fire:，帮助同学们更加有针对性地准备面试。
 
-:loudspeaker: [2020.10.22] **为方便大家高效检索题目，推出CodeTop网站，当前支持公司+部门+岗位自由组合查询**[https://codetop.cc](https://codetop.cc)
+ **为方便大家高效检索题目，推出CodeTop网站，支持公司+部门+岗位自由组合查询**[https://codetop.cc](https://codetop.cc)
+
+:loudspeaker: [2021.02.20] 我的好友龙哥目前建了个开源免费的内推项目[AwesomeJob](https://github.com/Dikea/AwesomeJob)，致力于帮助学生找到实习、校招内推机会，帮助企业员工找到合适的实习生、校招生，减少信息隔阂，欢迎Star⭐
 
 :speech_balloon:面试交流：想加入面试交流群的可以扫码加入。若群满员或二维码过期，请在「一个搬砖的胖子」公众号点击「加交流群」，添加我的微信后即被拉群
 
