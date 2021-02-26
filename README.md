@@ -78,3 +78,7 @@
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/test.md)
 </details>
 
+## 捐赠
+如果你觉得本项目帮助到了你，你可以帮作者买一杯果汁表示鼓励🍹
+![donate](https://i.ibb.co/n1f1ZfG/donate.png)
+
