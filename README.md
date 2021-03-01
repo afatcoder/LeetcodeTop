@@ -13,11 +13,11 @@
 
 :warning:若转载本文章，需注明本仓库地址哦
 
-## 字节跳动（更新至牛客2.4日的面经）
+## 字节跳动（更新至牛客2.28日的面经）
 <details>
 <summary>按岗位分类</summary>
   
- [1.1~2.4涉及的90道题](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
+ [2.4~2.28出现的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
