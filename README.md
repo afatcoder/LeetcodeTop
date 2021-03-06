@@ -13,6 +13,18 @@
 
 :warning:若转载本文章，需注明本仓库地址哦
 
+## 猿辅导（更新至牛客3.5日的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/test.md)
+- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/data.md)
+</details>
+
 ## 字节跳动（更新至牛客2.28日的面经）
 <details>
 <summary>按岗位分类</summary>
@@ -41,18 +53,6 @@
 - [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/data.md)
 </details>
 
-## 猿辅导（更新至牛客8.31日的面经）
-<details>
-<summary>按岗位分类</summary>
-  
-[8.1~8.31面试考察的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/new.md)
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/test.md)
-- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/data.md)
-</details>
 
 ## 百度(更新至牛客8.7日的面经)
 <details>
