@@ -25,6 +25,18 @@
 - [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/yuanfudao/data.md)
 </details>
 
+## 快手（更新至牛客3.5日的面经）
+<details>
+<summary>按岗位分类</summary>
+
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/test.md)
+- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/data.md)
+</details>
+
 ## 字节跳动（更新至牛客2.28日的面经）
 <details>
 <summary>按岗位分类</summary>
@@ -39,19 +51,6 @@
 
 ## 微软（更新至牛客11.23日的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
-
-## 快手（更新至牛客9.30日的面经）
-<details>
-<summary>按岗位分类</summary>
-
-[9.1~9.31新增题目](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/latest.md)
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/test.md)
-- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/data.md)
-</details>
 
 
 ## 百度(更新至牛客8.7日的面经)
