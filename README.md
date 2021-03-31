@@ -17,7 +17,7 @@
 
 ![公众号：一个搬砖的胖子](https://github.com/afatcoder/LeetcodeTop/blob/master/img/wechat.png)
 
-:link:友情链接：我的好友龙哥目前建了个开源免费的内推项目[AwesomeJob](https://github.com/Dikea/AwesomeJob)，致力于帮助学生找到实习、校招内推机会，帮助企业员工找到合适的实习生、校招生，减少信息隔阂，欢迎Star⭐
+:link:友情链接：我的好友阿秀前段时间收集了超过1000本计算机经典书籍的PDF，包括C++、Java、Python、操作系统、计算机网络、数据库等方面的书籍，基本上你能听过的都在里面了。这是他的仓库[CS-Books](https://github.com/forthespada/CS-Books)，大家可以去看看，以后看书不花钱不是梦了哈哈，欢迎Star⭐
 
 :information_source:数据来源：牛客网笔经面经，题目的原始文章链接已放在[issues](https://github.com/afatcoder/LeetcodeTop/issues)中
 
