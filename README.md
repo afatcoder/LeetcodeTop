@@ -23,6 +23,18 @@
 
 :warning:若转载文章，需注明本仓库地址
 
+## 字节跳动（更新至牛客2021.4.6日的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+ [3.1~4.6出现的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
+</details>
+
 ## 美团（牛客2020.8.15~牛客2021.3.30号面经）
 <details>
 <summary>按岗位分类</summary>
@@ -62,17 +74,6 @@
 - [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/kuaishou/data.md)
 </details>
 
-## 字节跳动（更新至牛客2.28日的面经）
-<details>
-<summary>按岗位分类</summary>
-  
- [2.4~2.28出现的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
-</details>
 
 ## 百度(更新至牛客8.7日的面经)
 <details>
