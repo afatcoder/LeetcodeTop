@@ -23,6 +23,17 @@
 
 :warning:若转载文章，需注明本仓库地址
 
+## 腾讯（更新牛客21.1.1~21.4.12日的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/test.md)
+</details>
+
 ## 字节跳动（更新至牛客2021.4.6日的面经）
 <details>
 <summary>按岗位分类</summary>
