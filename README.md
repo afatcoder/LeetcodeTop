@@ -1,7 +1,7 @@
 # LeetcodeTop
 本仓库用于汇总互联网公司技术岗考察Leetcode题目的热度:fire:，帮助同学们更加有针对性地准备面试。
 
- **为方便大家高效检索题目，推出CodeTop网站，支持公司+部门+岗位自由组合查询**[https://codetop.cc](https://codetop.cc)
+ 我最近开发的**CodeTop网站**([https://codetop.cc](https://codetop.cc))，支持按**公司**、**部门**、**岗位**组合查询，方便大家高效检索题目。
 
 相对于力扣官方企业题库，CodeTop有以下优点
 
@@ -13,20 +13,34 @@
 注1：若想按部门查询题目，请在[CodeTop网站](http://codetop.cc)或CodeTop小程序查看<br>
 注2：为保证数据真实可信，[issues](https://github.com/afatcoder/LeetcodeTop/issues)中会声名了所有涉及的原文链接
 
-:speech_balloon:面试交流：若想加大厂面试交流群，请在「一个搬砖的胖子」公众号点击「加交流群」，添加我的微信后即被拉群
+:speech_balloon:面试交流：若想加入大厂面试真题交流群，请在公众号「一个搬砖的胖子」回复「加群」，添加我的微信后即被拉群
+
+:book: 面经导航：我将汇总过的几千篇面经整理成大厂面经导航.xlsx，方便大家按公司、部门、岗位定位面经原文链接。目前已包括字节跳动、腾讯、美团等公司。公众号「一个搬砖的胖子」后台回复公司名称即可获取下载链接。
 
 ![公众号：一个搬砖的胖子](https://github.com/afatcoder/LeetcodeTop/blob/master/img/wechat.png)
 
-:link:友情链接：我的好友鱼皮开发了个编程导航网站，旨在发现优质编程学习资源，提高编程学习效率。这是他的仓库[code-nav](https://github.com/liyupi/code-nav)，大家可以去看看，欢迎Star⭐
 
 :information_source:数据来源：牛客网笔经面经，题目的原始文章链接已放在[issues](https://github.com/afatcoder/LeetcodeTop/issues)中
 
-:warning:若转载文章，需注明本仓库地址
+:warning:使用本仓库的频度数据或转载文章，需注明本仓库地址！侵权必究！
 
-## 微软（更新至牛客4.28日的面经）
+
+## 字节跳动（更新至牛客2021.4.30的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+ [3.1~4.6出现的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
+</details>
+
+## 微软（更新至牛客2021.4.30的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/microsoft/SDE.md)
 
-## 美团（更新至牛客2021.4.23号面经）
+## 美团（更新至牛客2021.4.23面经）
 <details>
 <summary>按岗位分类</summary>
   
@@ -38,7 +52,7 @@
 - [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/meituan/data.md)
 </details>
 
-## 腾讯（更新至牛客21.4.12日的面经）
+## 腾讯（更新至牛客2021.4.12的面经）
 <details>
 <summary>按岗位分类</summary>
   
@@ -47,18 +61,6 @@
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/tencent/test.md)
-</details>
-
-## 字节跳动（更新至牛客2021.4.6日的面经）
-<details>
-<summary>按岗位分类</summary>
-  
- [3.1~4.6出现的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
 </details>
 
 ## 猿辅导（更新至牛客3.5日的面经）
