@@ -13,9 +13,9 @@
 注1：若想按部门查询题目，请在[CodeTop网站](http://codetop.cc)或CodeTop小程序查看<br>
 注2：为保证数据真实可信，[issues](https://github.com/afatcoder/LeetcodeTop/issues)中会声名了所有涉及的原文链接
 
-:speech_balloon:面试交流：若想加入大厂面试真题交流群，请在公众号「一个搬砖的胖子」回复「加群」，添加我的微信后即被拉群
+:speech_balloon:面试交流：若想加入大厂面试真题交流群，请在公众号「一个搬砖的胖子」后台回复「加群」，添加我的微信后即被拉群
 
-:book: 面经导航：我将汇总过的几千篇面经整理成大厂面经导航.xlsx，方便大家按公司、部门、岗位定位面经原文链接。目前已包括字节跳动、腾讯、美团等公司。公众号「一个搬砖的胖子」后台回复公司名称即可获取下载链接。
+:blue_book:面经导航：我将汇总过的几千篇面经整理成大厂面经导航.xlsx，方便大家按公司、部门、岗位定位面经原文链接。目前已包括字节跳动、腾讯、美团等公司。公众号后台回复公司名称即可获取下载链接。
 
 ![公众号：一个搬砖的胖子](https://github.com/afatcoder/LeetcodeTop/blob/master/img/wechat.png)
 
@@ -29,7 +29,6 @@
 <details>
 <summary>按岗位分类</summary>
   
- [3.1~4.6出现的题目](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/latest.md)
 - [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
 - [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
