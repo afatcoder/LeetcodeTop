@@ -1,5 +1,5 @@
 # 算法
-我开发的[CodeTop题库](https://codetop.cc)可以按照部门、难度筛选，比markdown更方便查询高频题
+我最近开发的[CodeTop网站](https://codetop.cc)可以按照**部门**、**难度**筛选，比markdown更方便检索
 
 |题目|出现次数|链接|
 |-|-|-|

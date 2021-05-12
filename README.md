@@ -26,6 +26,17 @@
 
 :warning:使用本仓库的频度数据或转载文章，需注明本仓库地址！侵权必究！
 
+## 虾皮shopee（牛客2020.8.1~2021.5.10的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/test.md)
+- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/data.md)
+</details>
 
 ## 字节跳动（更新至牛客2021.4.30的面经）
 <details>
@@ -36,6 +47,7 @@
 - [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
 - [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
 - [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
+- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/data.md)
 </details>
 
 ## 微软（更新至牛客2021.4.30的面经）
