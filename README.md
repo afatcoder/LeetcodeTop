@@ -26,6 +26,18 @@
 
 :warning:使用本仓库的频度数据或转载文章，需注明本仓库地址！侵权必究！
 
+## 字节跳动（更新至牛客2021.7.19的面经）
+<details>
+<summary>按岗位分类</summary>
+  
+- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
+- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
+- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
+- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
+- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
+- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/data.md)
+</details>
+
 ## 亚马逊中国（更新至牛客2021.6.9的面经）
 - [SDE](https://github.com/afatcoder/LeetcodeTop/blob/master/amazon/SDE.md)
 
@@ -44,17 +56,7 @@
 - [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/shopee/data.md)
 </details>
 
-## 字节跳动（更新至牛客2021.4.30的面经）
-<details>
-<summary>按岗位分类</summary>
-  
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/frontend.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/test.md)
-- [数据开发](https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/data.md)
-</details>
+
 
 ## 美团（更新至牛客2021.4.23面经）
 <details>
