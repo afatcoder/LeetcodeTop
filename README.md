@@ -24,6 +24,9 @@
 
 推荐北大FB双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-notfund2022)，有人靠他连拿3个大厂offer
 
+ ![image](https://user-images.githubusercontent.com/67673714/182992798-34f97b7e-ae52-4818-bd07-e3c47e0f5eb1.png)
+
+
 :speech_balloon:面试交流：若想加入大厂面试真题交流群，请在公众号「一个搬砖的胖子」后台回复「加群」，添加我的微信后即被拉群
 
 ![公众号：一个搬砖的胖子](https://github.com/afatcoder/LeetcodeTop/blob/master/img/wechat.png)
