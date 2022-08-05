@@ -20,9 +20,9 @@
 
 ![1659661546246](https://user-images.githubusercontent.com/67673714/182980176-60a80425-d67a-4b3d-9728-59b6dd229b6f.jpg)
  
-九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万IT程序员找到高薪offer! 提供1对1求职指导、算法指导、前后端项目、简历代笔等服务。 推荐刷题网站：[www.lintcode.com](https://www.lintcode.com/?utm_source=tf-github-notfund2022)
+九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万IT程序员找到高薪offer! 提供1对1求职指导、算法指导、前后端项目、简历代笔等服务。 推荐刷题网站：[www.lintcode.com](https://www.lintcode.com/?utm_source=tf-github-codetop)
 
-推荐北大FB双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-notfund2022)，有人靠他连拿3个大厂offer
+推荐北大FB双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-codetop)，有人靠他连拿3个大厂offer
 
  ![image](https://user-images.githubusercontent.com/67673714/182992798-34f97b7e-ae52-4818-bd07-e3c47e0f5eb1.png)
 
