@@ -64,7 +64,7 @@
 |剑指 Offer 22. 链表中倒数第k个节点|4|https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof|
 |补充题4. 手撕快速排序|4|https://leetcode-cn.com/problems/sort-an-array|
 |剑指 Offer 33. 二叉搜索树的后序遍历序列|4|https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof|
-|518. 零钱兑换 II|3|https://leetcode-cn.com/problems/coin-change-2|
+|518. 零钱兑换 II|3|https://leetcode-cn.com/problems/coin-change-ii|
 |300. 最长上升子序列|3|https://leetcode-cn.com/problems/longest-increasing-subsequence|
 |145. 二叉树的后序遍历|3|https://leetcode-cn.com/problems/binary-tree-postorder-traversal|
 |33. 搜索旋转排序数组|3|https://leetcode-cn.com/problems/search-in-rotated-sorted-array|

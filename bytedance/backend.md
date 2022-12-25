@@ -51,7 +51,7 @@
 |470. 用 Rand7() 实现 Rand10()|13|https://leetcode-cn.com/problems/implement-rand10-using-rand7|
 |补充题2. 圆环回原点问题|13|https://mp.weixin.qq.com/s/NZPaFsFrTybO3K3s7p7EVg|
 |234. 回文链表|12|https://leetcode-cn.com/problems/palindrome-linked-list|
-|518. 零钱兑换 II|12|https://leetcode-cn.com/problems/coin-change-2|
+|518. 零钱兑换 II|12|https://leetcode-cn.com/problems/coin-change-ii|
 |88. 合并两个有序数组|12|https://leetcode-cn.com/problems/merge-sorted-array|
 |2. 两数相加|12|https://leetcode-cn.com/problems/add-two-numbers|
 |32. 最长有效括号|12|https://leetcode-cn.com/problems/longest-valid-parentheses|
