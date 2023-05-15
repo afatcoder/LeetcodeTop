@@ -127,18 +127,6 @@
 </details>
 
 
-## 阿里巴巴
-<details>
-<summary>按岗位分类</summary>
-  
-- [后端](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/backend.md)
-- [算法](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/algorithm.md)
-- [客户端](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/client.md)
-- [前端](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/frontend.md)
-- [数据相关岗位](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/data.md)
-- [测试](https://github.com/afatcoder/LeetcodeTop/blob/master/alibaba/test.md)
-</details>
-
 ## 捐赠
 如果你觉得本项目帮助到了你，你可以帮作者买一杯果汁表示鼓励🍹
 ![donate](https://i.ibb.co/n1f1ZfG/donate.png)
