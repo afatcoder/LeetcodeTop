@@ -17,16 +17,6 @@
 注1：若想按部门查询题目，请在[CodeTop网站](http://codetop.cc)或CodeTop小程序查看<br>
 注2：为保证数据真实可信，[issues](https://github.com/afatcoder/LeetcodeTop/issues)中会声名了所有涉及的原文链接
 
-
-![1659661546246](https://user-images.githubusercontent.com/67673714/182980176-60a80425-d67a-4b3d-9728-59b6dd229b6f.jpg)
- 
-九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万IT程序员找到高薪offer! 提供1对1求职指导、算法指导、前后端项目、简历代笔等服务。 推荐免费ChatGPT网站：[www.lintcode.com/chat-gpt](https://www.lintcode.com/chat-gpt?utm_source=tf-github-codetop)
-
-推荐北大FB双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-codetop)，有人靠他连拿3个大厂offer
-
- ![image](https://user-images.githubusercontent.com/67673714/182992798-34f97b7e-ae52-4818-bd07-e3c47e0f5eb1.png)
-
-
 :speech_balloon:面试交流：若想加入大厂面试真题交流群，请在公众号「一个搬砖的胖子」后台回复「加群」，添加我的微信后即被拉群
 
 ![公众号：一个搬砖的胖子](https://github.com/afatcoder/LeetcodeTop/blob/master/img/wechat.png)
