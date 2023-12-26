@@ -11,5 +11,5 @@
 |21. 合并两个有序链表|1|https://leetcode-cn.com/problems/merge-two-sorted-lists|
 |1143. 最长公共子序列|1|https://leetcode-cn.com/problems/longest-common-subsequence|
 |673. 最长递增子序列的个数|1|https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence|
-|518. 零钱兑换 II|1|https://leetcode-cn.com/problems/coin-change-2|
+|518. 零钱兑换 II|1|https://leetcode-cn.com/problems/coin-change-ii|
 |39. 组合总和|1|https://leetcode-cn.com/problems/combination-sum|
