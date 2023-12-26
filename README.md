@@ -23,7 +23,7 @@
 
 :information_source:数据来源：牛客网笔经面经，题目的原始文章链接已放在[issues](https://github.com/afatcoder/LeetcodeTop/issues)中
 
-:warning:使用本仓库的频度数据或转载文章，需注明本仓库地址！侵权必究！
+:warning:使用本仓库的频度数据或转载文章，需注明本仓库地址！侵权必究！ 
 
 
 ## 微软中国（更新至牛客2021.8.20的面经）
